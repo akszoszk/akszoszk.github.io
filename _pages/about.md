@@ -16,5 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ukrainian linguist specializing in phonetics, phonology, and child language acquisition. My research focuses on the phonotactics of predominantly Slavic and Germanic languages, and I employ corpus linguistic techniques and natural language processing in my studies. 
-At the moment, I am actively involved in developing a website dedicated to (mor)phonotactics and enhancing <a href='https://wa.amu.edu.pl/nadcalc/'>the Net Auditory Distance Calculator</a>.
+🎓 I am a Ukrainian linguist specializing in phonetics, phonology, more specifically phonotactics of Slavic and Germanic languages, i.e., a study of rules and patterns governing permissible combinations of sounds in a particular language. In my research, I employ corpus linguistic methods and natural language processing (Python).
+
+👶 My interests also extend to the field of child language acquisition and sociolinguistics.
+
+🌐 At the moment, I am actively involved in developing a website dedicated to (mor)phonotactics and enhancing the Net Auditory Distance Calculator - a tool developed at the Faculty of English to calculate cluster preferences of various languages.
+
+💼 In my free time, I am a freelance translator and interpreter of Ukrainian, English, Polish, and Russian and a passionate mountaineer 🏔️.
