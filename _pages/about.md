@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://anglistyka.amu.edu.pl/'>Adam Mickiewicz University, Poznan</a>. | alokon1@amu.edu.pl.
+subtitle: <a href='https://anglistyka.amu.edu.pl/'>Adam Mickiewicz University, Poznan</a> | alokon1@amu.edu.pl
 
 profile:
   align: right
