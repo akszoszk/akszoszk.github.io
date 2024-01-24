@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 👶 My interests also extend to the field of child language acquisition and sociolinguistics.
 
-🌐 At the moment, I am actively involved in developing a website dedicated to (mor)phonotactics and enhancing [the Net Auditory Distance Calculator](https://wa.amu.edu.pl/nadcalc/) - a tool developed at [the Faculty of English](https://anglistyka.amu.edu.pl/en) to calculate cluster preferences of various languages.
+🌐 At the moment, I am actively involved research dedicated to (mor)phonotactics and enhancing the Net Auditory Distance Calculator- a tool developed at [the Faculty of English](https://anglistyka.amu.edu.pl/en) to calculate cluster preferences of various languages.
 
 💼 In my free time, I am a freelance translator and interpreter of Ukrainian, English, Polish, and Russian and a passionate mountaineer 🏔️.
