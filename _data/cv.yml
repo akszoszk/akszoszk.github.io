@@ -17,32 +17,41 @@
       description:
         - PhD Thesis - „Exploring (mor)phonotactic patterns: A comparative study of selected Germanic and Slavic languages"
 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MA
+      institution: Adam Mickiewicz University, Poznan, Poland
+      year: 2018
+
+    - title: MA
+      institution: Kharkiv National Pedagogical University named by G.S. Skovoroda
+      year: 2015
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Lecturer, PhD
+      institution: Adam Mickiewicz University, Poznan, Poland; The Faculty of English
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching
+
+    - title: Translator/interpreter
+      institution: freelance
+      year: 2020 - now
+
+    - title: Client Service Advisor
+      institution: NitroSell Ltd.
+      year: 2018-2023
+
+     - title: Visiting Researcher
+      institution: Austrian Academy of Sciences
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+       - Performing the corpus-based research in linguistics (German)
+
+    - title: Erasmus+ exchange student
+      institution: The University of Vienna
+      year: 2017
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
