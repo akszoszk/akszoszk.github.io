@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 🤞 Keeping fingers crossed for my application to the START 2023 programme for young researchers organized by the <a href="https://www.fnp.org.pl/en/">Foundation for Polish Science.</a>
-

@@ -25,7 +25,6 @@
       institution: Kharkiv National Pedagogical University named by G.S. Skovoroda
       year: 2015
 
-
 - title: Experience
   type: time_table
   contents:
@@ -47,7 +46,7 @@
       institution: Austrian Academy of Sciences
       year: 2017
       description:
-       - Performing the corpus-based research in linguistics (German)
+        - Performing the corpus-based research in linguistics (German)
 
     - title: Erasmus+ exchange student
       institution: The University of Vienna
