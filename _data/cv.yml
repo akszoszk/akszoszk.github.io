@@ -2,25 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alona Kononenko-Szoszkiewicz
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1993
     - name: Languages
-      value: English, German
+      value: Ukrainian, English, Polish, Russian
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Adam Mickiewicz University, Poznan, Poland
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - PhD Thesis - „Exploring (mor)phonotactic patterns: A comparative study of selected Germanic and Slavic languages"
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
