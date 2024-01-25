@@ -124,15 +124,12 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Passions and pursuits",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Film Festival Enthusiast",
+        "Mountaineering and rock climbing",
+        "Geopolitics"
       ]
     }
   ],
