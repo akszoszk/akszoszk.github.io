@@ -19,13 +19,13 @@
     {
       "name": "Translator/Interpreter",
       "position": "Freelance",
-      "startDate": "since 2020"
+      "startDate": "2020"
     },
     {
       "name": "NitroSell ltd",
       "position": "Client Service Advisor",
-      "startDate": "2018-09-05",
-      "endDate": "2023-05-31"
+      "startDate": "2018",
+      "endDate": "2023"
     },
     {
       "name": "Austrian Academy of Sciences",
@@ -37,8 +37,8 @@
     {
       "organization": "the Polish Robert Schuman Foundation",
       "url": "https://schumanvolunteers.pl/en/",
-      "startDate": "2015-10-01",
-      "endDate": "2016-05-31"
+      "startDate": "2015",
+      "endDate": "2016"
     }
     ],
 
@@ -48,22 +48,22 @@
       "url": "https://amu.edu.pl/",
       "area": "The Faculty of English",
       "studyType": "PhD",
-      "startDate": "2018-10-03",
-      "endDate": "2023-10-25"
+      "startDate": "2018",
+      "endDate": "2023"
     },
     {
       "institution": "Adam Mickiewicz University, Poznan, Poland",
       "studyType": "MA",
       "area": "The Faculty of English",
-      "startDate": "2016-10-01",
-      "endDate": "2018-06-05"
+      "startDate": "2016",
+      "endDate": "2018"
     },
     {
       "institution": "Kharkiv National Pedagogical University named by G.S. Skovoroda, Ukraine",
       "studyType": "MA",
       "area": "The Faculty of English",
-      "startDate": "2015-09-01",
-      "endDate": "2015-05-31"
+      "startDate": "2015",
+      "endDate": ""
     }
   ],
   "certificates": [
@@ -72,7 +72,7 @@
       "date": "2021",
       "issuer": "University of Essex",
       "url": "https://www.essex.ac.uk/summer-schools/analytics-and-data-science",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Corpus Lingustics Summer School at the University of Birmingham",
@@ -84,12 +84,12 @@
     {
       "name": "Mostar International Model United Nations (MostiMUN, UN Women), Bosnia and Herzegovina",
       "date": "2017",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Lviv Model United Nations (Lviv MUN, Security Council),Ukraine)",
       "date": "2016",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Quantum Communication",
