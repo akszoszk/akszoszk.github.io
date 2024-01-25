@@ -12,9 +12,7 @@
       "position": "Senior Lecturer (PhD)",
       "url": "https://anglistyka.amu.edu.pl/",
       "startDate": "2024",
-      "endDate": "NOW",
-      "summary": "",
-      "highlights": [""]
+      "endDate": ""
     },
     {
       "name": "Translator/Interpreter",
@@ -31,6 +29,7 @@
     {
       "name": "Austrian Academy of Sciences",
       "position": "Guest Researcher",
+      "startDate": "2016",
       "endDate": "2017"
     }
   ],
@@ -91,20 +90,6 @@
       "name": "Lviv Model United Nations (Lviv MUN, Security Council),Ukraine)",
       "date": "2016",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
