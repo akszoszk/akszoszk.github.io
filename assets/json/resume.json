@@ -12,14 +12,15 @@
       "position": "Senior Lecturer (PhD)",
       "url": "https://anglistyka.amu.edu.pl/",
       "startDate": "2024",
-      "endDate": "",
+      "endDate": "NOW",
       "summary": "",
       "highlights": [""]
     },
     {
       "name": "Translator/Interpreter",
       "position": "Freelance",
-      "startDate": "2020"
+      "startDate": "2020",
+      "endDate": "NOW"
     },
     {
       "name": "NitroSell ltd",
@@ -30,7 +31,7 @@
     {
       "name": "Austrian Academy of Sciences",
       "position": "Guest Researcher",
-      "startDate": "2017"
+      "endDate": "2017"
     }
   ],
   "volunteer": [
@@ -62,8 +63,7 @@
       "institution": "Kharkiv National Pedagogical University named by G.S. Skovoroda, Ukraine",
       "studyType": "MA",
       "area": "The Faculty of English",
-      "startDate": "2015",
-      "endDate": ""
+      "endDate": "2015"
     }
   ],
   "certificates": [
