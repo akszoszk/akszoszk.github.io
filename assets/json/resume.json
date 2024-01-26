@@ -18,10 +18,10 @@
       "name": "Translator/Interpreter",
       "position": "Freelance",
       "startDate": "2020",
-      "endDate": "NOW"
+      "endDate": ""
     },
     {
-      "name": "NitroSell ltd",
+      "name": "NitroSell ltd.",
       "position": "Client Service Advisor",
       "startDate": "2018",
       "endDate": "2023"
@@ -85,16 +85,19 @@
   "conferences": [
     {
       "name": "",
+      "issuer": "Diachronic Phonotactics Workshop, 2017, (Vienna, Austria)"
+    },
+    {
+      "name": "",
+      "issuer": "The International Symposium on Monolingual and Bilingual Speech, 2019 (Chania, Crete)"
+    },
+    {
+      "name": "",
+      "issuer": "56th Annual Meeting of the Societas Linguistica Europaea, 2023, (Athens, Greece)"
+    },
+    {
+      "name" : "",
       "issuer": "Annual Poznan Linguistic Meetings, 2020-2023, (Adam Mickiewicz University, Poznan)"
-    },
-    {
-      "name": "56th Annual Meeting of the Societas Linguistica Europaea, 2023, (Athens, Greece)"
-    },
-    {
-      "name": "The International Symposium on Monolingual and Bilingual Speech, 2019 (Chania, Crete)"
-    },
-    {
-      "name" : "Diachronic Phonotactics Workshop, 2017, (Vienna, Austria)"
     }
   ],
   "languages": [
@@ -124,7 +127,7 @@
       "name": "Passions and pursuits",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Film Festival Enthusiast",
+        "Film festival enthusiast",
         "Mountaineering and rock climbing",
         "Geopolitics"
       ]
