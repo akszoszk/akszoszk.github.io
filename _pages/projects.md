@@ -7,11 +7,9 @@ nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
-exclude_page: false  # Add this line to exclude the page
 ---
 
 <!-- pages/projects.md -->
-{% unless page.exclude_page %}
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -63,4 +61,4 @@ exclude_page: false  # Add this line to exclude the page
   {% endif %}
 {% endif %}
 </div>
-{% endunless %}
+
