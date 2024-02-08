@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📅 Can't wait for my participation in the Pre- and Protomorphology workshop held at the University of Vienna from 8.02.24 to 9.02.24!
+📅 Can't wait for my participation in the Pre- and Protomorphology workshop held at the University of Vienna from 8 to 9th February!
