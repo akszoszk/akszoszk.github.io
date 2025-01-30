@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤞 Keeping fingers crossed
+🤞 Applied for the `58th Annual Meeting of the Societas Linguistica Europaea`. Been there before two years ago. It's nice to be back :)
