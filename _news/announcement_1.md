@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤞 Applied for the `58th Annual Meeting of the Societas Linguistica Europaea`. Been there before two years ago. It's nice to be back :)
+🤞 Applied for the `58th Annual Meeting of the Societas Linguistica Europaea`. Been there before two years ago. It is nice to be back :)
