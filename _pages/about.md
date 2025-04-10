@@ -16,15 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
-layout: post
-date: 2023-11-30 07:59:00-0400
-title: "About Me"
----
+🎓 I'm a Ukrainian linguist focused on phonetics, phonology, and the (mor)phonotactics of Slavic and Germanic languages. By applying data-driven and computational methods I study rules and patterns governing permissible combinations of sounds in a particular language.
 
-🔬 I'm a Ukrainian linguist focused on phonetics, phonology, and the (mor)phonotactics of Slavic and Germanic languages. I explore how languages structure sound combinations using data-driven, computational methods.
-
-🧠 My research relies on corpus linguistics and NLP with Python libraries (e.g. NLTK) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
+🔬 My research relies on corpus linguistics and NLP with Python libraries (e.g. NLTK) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
 
 💻 Technically, I build research tools and academic websites using PyCharm, GitHub. I develop custom solutions with frameworks such as Flask and craft precise prompts for generative AI tools to support rigorous linguistic analysis.
 
