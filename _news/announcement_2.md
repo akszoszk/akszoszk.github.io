@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2023-11-30 07:59:00-0400
+date: 2025-03-31 09:30:00-0400
 inline: true
 related_posts: false
 ---
 
-🚀 Thrilled to announce my grant application titled "Building bridges in Polish classrooms: The Ukrainian integration experience in Greater Poland." submitted to <a href="https://www.isrf.org/">the Independent Social Research Foundation</a>.
+📝 Just submitted our presentation proposal to the <a href="https://wa.amu.edu.pl/plm/2025/">53rd Poznań Linguistic Meeting (PLM2025)</a>!
+
+📄 <strong>Title:</strong> <em>When 'No' Goes Astray: A Blind Alley Development in the Early Acquisition of Polish Negative Sentences</em>  
+👥 <strong>Authors:</strong> Alona Kononenko-Szoszkiewicz & W. U. Dressler 🤞 Fingers crossed!

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-30 15:59:00-0400
+date: 2025-03-26 15:59:00-0400
 inline: true
 related_posts: true
 ---
 
-🤞 Submitted an abstract for the `58th Annual Meeting of the Societas Linguistica Europaea`. Been there before two years ago.
+🎙️Our paper "Phonotactics and morphonotactics of word-initial clusters in Belarusian: A corpus-based study" has been accepted for presentation at the `58th Annual Meeting of the Societas Linguistica Europaea`.
