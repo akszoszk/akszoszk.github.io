@@ -16,10 +16,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🎓 I am a Ukrainian linguist specializing in phonetics, phonology, more specifically phonotactics of Slavic and Germanic languages, i.e., a study of rules and patterns governing permissible combinations of sounds in a particular language. In my research, I employ corpus linguistic methods and natural language processing (Python).
+---
+layout: post
+date: 2023-11-30 07:59:00-0400
+title: "About Me"
+---
 
-👶 My interests also extend to the field of child language acquisition and sociolinguistics.
+🔬 I'm a Ukrainian linguist focused on phonetics, phonology, and the (mor)phonotactics of Slavic and Germanic languages. I explore how languages structure sound combinations using data-driven, computational methods.
 
-🌐 At the moment, I am actively involved research dedicated to (mor)phonotactics and enhancing [the Net Auditory Distance Calculator](http://wa.amu.edu.pl/nadcalc/)- a tool developed at [the Faculty of English](https://anglistyka.amu.edu.pl/en) to calculate cluster preferences of various languages.
+🧠 My research relies on corpus linguistics and NLP with Python libraries (e.g. NLTK) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
 
-💼 In my free time, I am a freelance translator and interpreter of Ukrainian, English, Polish, and Russian and a passionate mountaineer 🏔️.
+💻 Technically, I build research tools and academic websites using PyCharm, GitHub, and static site generators like Jekyll. I develop custom solutions with frameworks such as Flask and craft precise prompts for generative AI tools to support rigorous linguistic analysis.
+
+🎧 I continuously develop [Net Auditory Distance Calculator](https://wa.amu.edu.pl/nadcalc/)by incorporating additional languages. Recently, data for Belarusian and Turkish has been added to the database, enabling detailed phonotactic analysis and cross-linguistic comparisons.
+
+🌍 Beyond academia, I translate and interpret between Ukrainian, English, Polish, and Russian, and I enjoy spending time mountaineering.
