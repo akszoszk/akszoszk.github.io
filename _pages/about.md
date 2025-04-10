@@ -26,7 +26,7 @@ title: "About Me"
 
 🧠 My research relies on corpus linguistics and NLP with Python libraries (e.g. NLTK) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
 
-💻 Technically, I build research tools and academic websites using PyCharm, GitHub, and static site generators like Jekyll. I develop custom solutions with frameworks such as Flask and craft precise prompts for generative AI tools to support rigorous linguistic analysis.
+💻 Technically, I build research tools and academic websites using PyCharm, GitHub. I develop custom solutions with frameworks such as Flask and craft precise prompts for generative AI tools to support rigorous linguistic analysis.
 
 🎧 I continuously develop [Net Auditory Distance Calculator](https://wa.amu.edu.pl/nadcalc/)by incorporating additional languages. Recently, data for Belarusian and Turkish has been added to the database, enabling detailed phonotactic analysis and cross-linguistic comparisons.
 
