@@ -40,7 +40,7 @@
       "startDate": "2015",
       "endDate": "2016"
     }
-    ],
+  ],
 
   "education": [
     {
@@ -96,7 +96,7 @@
       "issuer": "56th Annual Meeting of the Societas Linguistica Europaea, 2023, (Athens, Greece)"
     },
     {
-      "name" : "",
+      "name": "",
       "issuer": "Annual Poznan Linguistic Meetings, 2020-2023, (Adam Mickiewicz University, Poznan)"
     }
   ],
@@ -126,11 +126,7 @@
     {
       "name": "Passions and pursuits",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Film festival enthusiast",
-        "Mountaineering and rock climbing",
-        "Geopolitics"
-      ]
+      "keywords": ["Film festival enthusiast", "Mountaineering and rock climbing", "Geopolitics"]
     }
   ],
   "references": [
