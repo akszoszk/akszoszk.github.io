@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📅 Can't wait for my participation in the Pre- and Protomorphology workshop held at the University of Vienna from 8 to 9th February!
+🧠 Our poster <em>“A Blind Alley Development in the Early Acquisition of Polish Negative Sentences”</em> (co-authored with W.U. Dressler) has been accepted for presentation at <a href="https://mental.lexicon2025.com/">The Mental Lexicon Conference</a>, held this June at McGill University, Canada 🇨🇦
