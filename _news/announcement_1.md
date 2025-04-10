@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤞 Submitted an abstract for the `58th Annual Meeting of the Societas Linguistica Europaea`. Been there before two years ago.
+🤞 Submitted an abstract for the `58th Annual Meeting of the Societas Linguistica Europaea`. Been there before two years ago. 
