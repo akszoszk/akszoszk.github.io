@@ -11,7 +11,7 @@ related_publications: false
 <div class="row">
     <div class="col-sm-12 mt-4 mt-md-0">
         
-        <p>This PhD thesis analyzes phonotactic patterns in German, English, Polish, Ukrainian, and Russian, revealing fundamental differences in consonant cluster positional distribution between Germanic and Slavic languages. Through corpus analysis the research demonstrates how morphological and phonological development shaped cluster preferences regardless their type/token frequency.</p>
+        <p>In my PhD project I analyzed phonotactic patterns in German, English, Polish, Ukrainian, and Russian, revealing fundamental differences in consonant cluster positional distribution between Germanic and Slavic languages. Through corpus analysis the research demonstrates how morphological and phonological development shaped cluster preferences regardless their type/token frequency.</p>
 
         <h4>Methodological Framework</h4>
         <ul>
