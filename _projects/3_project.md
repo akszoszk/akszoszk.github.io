@@ -1,8 +1,8 @@
-z---
+---
 layout: page
 title: Net Auditory Distance Calculator upgrade
 description: Ongoing enhancements and expanded language support for the NAD Calculator
-img: assets/img/nad.jpg
+img: assets/img/NAD.jpg
 importance: 2
 category: work
 related_publications: false
