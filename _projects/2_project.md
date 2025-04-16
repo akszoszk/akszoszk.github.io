@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-12 mt-4 mt-md-0">
-        <p>This study aims to identify the corpus types predominantly utilized, the languages most frequently examined, and the current disciplinary trends employing corpus linguistic methods, while highlighting the relative underrepresentation of phonetic and phonological research.</p>
+        <p>This study aims to quantify the scope and evolution of corpus‑based phonetic and phonological research by conducting a bibliometric analysis of all Scopus‑indexed publications from 2010 to 2020. Although corpus linguistic methods have long supported qualitative investigations of sound distribution and realization, recent advances—such as statistical modelling and probabilistic grammars—underscore their potential for robust, data‑driven phonological theory. However, as Durand et al. (2013) observe, phonetics and phonology remain underrepresented in corpus studies, in part due to limited access to spoken corpora and challenges in data collection and transcription. By applying citation‑based metrics within a scoping review framework (Munn et al. 2018), this analysis identifies the predominant corpus types, the languages most frequently studied, and the principal disciplinary clusters, while mapping emerging research trends and highlighting persistent gaps in phonetic and phonological applications.</p>
         <h4>Methodological Framework</h4>
         <ul>
             <li>Data collection from the Scopus database using a multifaceted search query</li>
@@ -63,6 +63,6 @@ related_publications: false
     </div>
     </div>
         <h4 class="mt-4">Conclusion</h4>
-        <p>This bibliometric analysis highlights the evolving landscape of corpus linguistic research. The findings illuminate the extensive use of written data, underepresenation of certain languages and predominance of the research ,mainly on Germanic languages, and the emergence of distinct research streams that collectively inform current scholarly practices and future research directions in the field.</p>
+        <p>This bibliometric analysis highlights the evolving landscape of corpus linguistic research. The findings illuminate the extensive use of written data, underepresenation of certain languages and predominance of the research, mainly on Germanic languages, and the emergence of distinct research streams that collectively inform current scholarly practices and future research directions in the field.</p>
     </div>
 
