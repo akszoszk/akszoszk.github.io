@@ -47,7 +47,7 @@ related_publications: false
         <!-- Image after Languages Covered -->
         <div class="row">
             <div class="col-sm">
-                <img src="assets/languages.jpg" class="img-fluid rounded z-depth-1" alt="Languages Covered Visualization">
+                <img src="assets/img/languages.jpg" class="img-fluid rounded z-depth-1" alt="Languages Covered Visualization">
             </div>
         </div>
         <div class="row justify-content-center mt-4">
@@ -59,12 +59,11 @@ related_publications: false
         <h4 class="mt-4">Research Streams and Contributions</h4>
 
         <!-- Image after h4 -->
-        <div class="row">
-            <div class="col-sm">
-                <img src="assets/project2.jpg" class="img-fluid rounded z-depth-1" alt="Research Clusters Overview">
-            </div>
-        </div>
-
+    <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    </div>
         <ol class="mt-3">
             <li>Identification of four major research clusters: NLP &amp; Speech Recognition, Discourse Studies, Speech Perception, and Computational Linguistics</li>
             <li>Establishment of the predominance of written corpora in corpus linguistic research</li>
