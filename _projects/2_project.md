@@ -52,7 +52,7 @@ related_publications: false
         </div>
         <div class="row justify-content-center mt-4">
             <div class="col-sm">
-                <img src="assets/language.jpg" class="img-fluid rounded z-depth-1" alt="Language Frequency Distribution">
+                <img src="assets/languages.jpg" class="img-fluid rounded z-depth-1" alt="Language Frequency Distribution">
             </div>
         </div>
 
@@ -75,5 +75,4 @@ related_publications: false
         <h4 class="mt-4">Conclusion</h4>
         <p>This bibliometric analysis highlights the evolving landscape of corpus linguistic research. The findings illuminate the extensive use of written data, the rich diversity of languages examined, and the emergence of distinct research streams that collectively inform current scholarly practices and future research directions in the field. The study underscores the value of quantitative methods in revealing research trends and identifying underexplored areas, paving the way for innovative inquiries in linguistic research.</p>
     </div>
-</div> 
-</div>
+
