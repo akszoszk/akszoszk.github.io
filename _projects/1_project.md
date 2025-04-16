@@ -1,81 +1,65 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Exploring (mor)phonotactic patterns:A comparative study of consonant clusters in Germanic and Slavic languages
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+    <div class="col-sm-12 mt-4 mt-md-0">
+        <h3 class="font-weight-bold">Positional Preferences in Consonant Clusters</h3>
+        
+        <p>This PhD thesis analyzes phonotactic patterns in German, English, Polish, Ukrainian, and Russian, revealing fundamental differences in consonant cluster positional distribution between Germanic and Slavic languages. Through corpus analysis the research demonstrates how morphological and phonological development shaped cluster preferences regardless their type/token frequency.</p>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+        <h4>Methodological Framework</h4>
+        <ul>
+            <li>Corpus-based analysis using written corpora</li>
+            <li>Application of Net Auditory Distance (NAD) principle</li>
+            <li>Beats-and-Binding phonological model for clusters evaluation</li>
+            <li>Comparative typological approach</li>
+        </ul>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <h4>Key Findings</h4>
+        <div class="row">
+            <div class="col-sm-6">
+                <h5>Cross-Linguistic Distribution</h5>
+                <ul>
+                    <li>Germanic languages (German/English) show 63% more final-position clusters</li>
+                    <li>Slavic languages (Polish/Ukrainian/Russian) exhibit 41% more initial-position clusters</li>
+                    <li>No significant correlation between cluster frequency and phonological preference</li>
+                </ul>
+            </div>
+            <div class="col-sm-6">
+                <h5>Typological Differences</h5>
+                <ul>
+                    <li>Germanic final clusters originate mainly from morphological concatenation</li>
+                    <li>Slavic initial clusters result mainly from vowel reduction processes</li>
+                    <li>Morphonotactic clusters show higher markedness in Slavic languages</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row justify-content-center mt-4">
+            <div class="col-sm-10">
+                {% include figure.liquid path="assets/img/cluster-positions.jpg" title="Cluster Position Distribution" class="img-fluid rounded z-depth-1" %}
+                <div class="caption mt-2">
+                    Distribution patterns of consonant clusters in word-initial (left) vs word-final (right) positions across language groups
+                </div>
+            </div>
+        </div>
+
+        <h4 class="mt-4">Research Contributions</h4>
+        <ol>
+            <li>First systematic comparison of Germanic and Slavic cluster positions</li>
+            <li>Quantitative verification of NAD predictions</li>
+            <li>Typological model explaining positional preferences</li>
+            <li>Corpus-based methodology for phonological analysis</li>
+        </ol>
+
+        <h4>Conclusion</h4>
+        <p>This study establishes that the contrasting cluster distributions in Germanic and Slavic languages result from different developmental pathways in morphological complexity and phonological systems. The findings challenge traditional markedness assumptions while providing a framework for predicting language-specific phonotactic constraints. The research demonstrates the value of corpus-based methods in phonological analysis, offering new directions for comparative linguistics and language typology studies.</p>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
