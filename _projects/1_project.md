@@ -41,15 +41,6 @@ related_publications: false
             </div>
         </div>
 
-        <div class="row justify-content-center mt-4">
-            <div class="col-sm-10">
-                {% include figure.liquid path="assets/img/cluster-positions.jpg" title="Cluster Position Distribution" class="img-fluid rounded z-depth-1" %}
-                <div class="caption mt-2">
-                    Distribution patterns of consonant clusters in word-initial (left) vs word-final (right) positions across language groups
-                </div>
-            </div>
-        </div>
-
         <h4 class="mt-4">Research Contributions</h4>
         <ol>
             <li>First systematic comparison of Germanic and Slavic cluster positions</li>
@@ -61,5 +52,4 @@ related_publications: false
         <h4>Conclusion</h4>
         <p>This study establishes that the contrasting cluster distributions in Germanic and Slavic languages result from different developmental pathways in morphological complexity and phonological systems. The findings challenge traditional markedness assumptions while providing a framework for predicting language-specific phonotactic constraints. The research demonstrates the value of corpus-based methods in phonological analysis, offering new directions for comparative linguistics and language typology studies.</p>
     </div>
-</div>
-</div>
+    </div>
