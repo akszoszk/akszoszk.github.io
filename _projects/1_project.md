@@ -5,7 +5,7 @@ description: A comparative study of consonant clusters in Germanic and Slavic la
 img: assets/img/project1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <div class="row">
