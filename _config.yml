@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Alona Kononenko-Szoszkiewicz # blog_name will be displayed in your blog page
-blog_description: Personal website of Alona Kononenko-Szoszkiewicz, Phd. I am a Ukrainian linguist specializing in phonetics, phonology, more specifically phonotactics of Slavic and Germanic languages.
+blog_description: Personal website of Alona Kononenko-Szoszkiewicz, Phd. I am a computational linguist specializing in phonetics, phonology, more specifically phonotactics of Slavic and Germanic languages.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -171,6 +171,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+    display_categories: [work]
 
 announcements:
   enabled: true
