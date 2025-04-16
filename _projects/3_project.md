@@ -1,81 +1,48 @@
----
+z---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Net Auditory Distance Calculator upgrade
+description: Ongoing enhancements and expanded language support for the NAD Calculator
+img: assets/img/nad.jpg
+importance: 2
 category: work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-12 mt-4 mt-md-0">
+    
+    <p>The <strong>Net Auditory Distance Calculator</strong>—originally developed at <a href="https://anglistyka.amu.edu.pl/">Anglistyka AMU</a>—is now live on PythonAnywhere. Try it at <a href="https://akszoszk.pythonanywhere.com/">https://akszoszk.pythonanywhere.com/</a>. Please note that the web interface is under active development, so you may encounter ongoing updates.</p>
+<p> The NAD Calculator calculates consonant‑cluster preferability for word‑initial, medial, and final positions by quantifying distances in manner of articulation (MOA), place of articulation (POA), and sonority (S/O). Originally developed at the Faculty of English, Adam Mickiewicz University, I am currently working on its further development—refining the feature‑weighting scheme, expanding language coverage, and enhancing the web interface.</p>    
+    <h4>Expanded Language Coverage</h4>
+    <ul>
+      <li><strong>Russian &amp; Ukrainian</strong> — added in 2017</li>
+      <li><strong>Georgian &amp; Croatian</strong> — added in 2019</li>
+      <li><strong>Turkish &amp; Belarusian</strong> — added most recently in 2024</li>
+    </ul>
+    
+    <h4>Development Setup</h4>
+    <p>I will soon integrate the latest codebase into PyCharm for enhanced development, debugging, and version control workflows.</p>
+    
+    <h4>Upcoming Improvements</h4>
+    <div class="row">
+      <div class="col-sm-6">
+        <ul>
+		<li>Integrate a list of key publications and references directly within the tool for quick access to foundational and recent research.</li>
+		<li>Develop a more intuitive, user‑friendly interface with clear navigation, responsive design, and interactive help prompts.</li>
+        <li>Add support for additional language inventories</li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+        <ul>
+          <li>Refine UI/UX with interactive visualizations</li>
+          <li>Provide downloadable reports (CSV/JSON)</li>
+          <li>Improve performance and scalability</li>
+        </ul>
+      </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    
+    <h4 class="mt-4">Try It Out</h4>
+    <p>Access the calculator here: <a href="https://akszoszk.pythonanywhere.com/" target="_blank">https://akszoszk.pythonanywhere.com/</a></p>
+    
   </div>
 </div>
-```
-
-{% endraw %}
