@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Exploring (mor)phonotactic patterns:A comparative study of consonant clusters in Germanic and Slavic languages
-description: 
-img: assets/img/12.jpg
+title: Exploring (mor)phonotactic patterns.
+description: A comparative study of consonant clusters in Germanic and Slavic languages
+img: assets/img/project1.png
 importance: 1
 category: work
 related_publications: true
@@ -10,7 +10,6 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm-12 mt-4 mt-md-0">
-        <h3 class="font-weight-bold">Positional Preferences in Consonant Clusters</h3>
         
         <p>This PhD thesis analyzes phonotactic patterns in German, English, Polish, Ukrainian, and Russian, revealing fundamental differences in consonant cluster positional distribution between Germanic and Slavic languages. Through corpus analysis the research demonstrates how morphological and phonological development shaped cluster preferences regardless their type/token frequency.</p>
 
