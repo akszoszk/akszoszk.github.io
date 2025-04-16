@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Bibliometric Analysis. Scopus (2010–2020)
+title: A Bibliometric Analysis. Scopus
 description: 
 img: assets/img/coverproject2.jpg
 importance: 2
