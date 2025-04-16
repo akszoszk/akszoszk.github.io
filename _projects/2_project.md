@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A Bibliometric Analysis. Scopus (2010–2020)
-description: 
+title: Bibliometric Analysis
+description: Scopus-indexed publications in corpus linguistics
 img: assets/img/coverproject2.jpg
 importance: 2
 category: work

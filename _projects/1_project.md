@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploring (mor)phonotactics
+title: Exploring (mor)phono-tactics
 description: A comparative study of consonant clusters in Germanic and Slavic languages
 img: assets/img/project1.jpg
 importance: 1
