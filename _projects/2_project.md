@@ -18,7 +18,6 @@ related_publications: false
             <li>Annotation of corpus types (written, spoken, both, sign language) and languages covered</li>
             <li>Mapping of research streams via quantitative bibliometric indicators</li>
         </ul>
-
         <h4>Key Findings</h4>
         <div class="row">
             <div class="col-sm-6">
