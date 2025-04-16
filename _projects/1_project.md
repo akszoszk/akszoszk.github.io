@@ -2,7 +2,7 @@
 layout: page
 title: Exploring (mor)phonotactic patterns.
 description: A comparative study of consonant clusters in Germanic and Slavic languages
-img: assets/img/project1.png
+img: assets/img/project1.jpg
 importance: 1
 category: work
 related_publications: true
@@ -61,4 +61,5 @@ related_publications: true
         <h4>Conclusion</h4>
         <p>This study establishes that the contrasting cluster distributions in Germanic and Slavic languages result from different developmental pathways in morphological complexity and phonological systems. The findings challenge traditional markedness assumptions while providing a framework for predicting language-specific phonotactic constraints. The research demonstrates the value of corpus-based methods in phonological analysis, offering new directions for comparative linguistics and language typology studies.</p>
     </div>
+</div>
 </div>
