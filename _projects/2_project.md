@@ -45,33 +45,23 @@ related_publications: false
         </div>
 
         <!-- Image after Languages Covered -->
-        <div class="row justify-content-center mt-4">
-            <div class="col-sm-10">
-                {% include figure.liquid path="assets/languages.jpg" title="Languages Covered Visualization" class="img-fluid rounded z-depth-1" %}
-                <div class="caption mt-2">
-                    Visualization of language coverage in corpus linguistic research (2010–2020)
-                </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="assets/languages.jpg" class="img-fluid rounded z-depth-1" alt="Languages Covered Visualization">
             </div>
         </div>
-
         <div class="row justify-content-center mt-4">
-            <div class="col-sm-10">
-                {% include figure.liquid path="assets/img/language.jpg" title="Language Frequency Distribution" class="img-fluid rounded z-depth-1" %}
-                <div class="caption mt-2">
-                    Frequency of languages studied in corpus linguistic research (2010–2020)
-                </div>
+            <div class="col-sm">
+                <img src="assets/language.jpg" class="img-fluid rounded z-depth-1" alt="Language Frequency Distribution">
             </div>
         </div>
 
         <h4 class="mt-4">Research Streams and Contributions</h4>
 
         <!-- Image after h4 -->
-        <div class="row justify-content-center mt-4">
-            <div class="col-sm-10">
-                {% include figure.liquid path="assets/project2.jpg" title="Research Clusters Overview" class="img-fluid rounded z-depth-1" %}
-                <div class="caption mt-2">
-                    Overview of research clusters emerging from the bibliometric analysis
-                </div>
+        <div class="row">
+            <div class="col-sm">
+                <img src="assets/project2.jpg" class="img-fluid rounded z-depth-1" alt="Research Clusters Overview">
             </div>
         </div>
 
@@ -85,5 +75,5 @@ related_publications: false
         <h4 class="mt-4">Conclusion</h4>
         <p>This bibliometric analysis highlights the evolving landscape of corpus linguistic research. The findings illuminate the extensive use of written data, the rich diversity of languages examined, and the emergence of distinct research streams that collectively inform current scholarly practices and future research directions in the field. The study underscores the value of quantitative methods in revealing research trends and identifying underexplored areas, paving the way for innovative inquiries in linguistic research.</p>
     </div>
-</div>
+</div> 
 </div>

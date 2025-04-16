@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🎓 I'm a computational linguist focused on phonetics, phonology, and the (mor)phonotactics of Slavic and Germanic languages. By applying data-driven and computational methods I study rules and patterns governing permissible combinations of sounds in a particular language.
+🎓 I'm a computational linguist focused on phonetics and phonology. By applying data-driven and computational methods I study rules and patterns governing permissible combinations of sounds in a particular language.
 
 🔬 My research relies on corpus linguistics and natural language processing (Python) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
 
