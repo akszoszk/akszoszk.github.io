@@ -2,7 +2,7 @@
 layout: page
 title: A Bibliometric Analysis. Scopus (2010–2020)
 description: 
-img: assets/img/project2.jpg
+img: assets/img/coverproject2.jpg
 importance: 2
 category: work
 related_publications: false
@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-12 mt-4 mt-md-0">
-        <p>This study aims to quantify the scope and evolution of corpus‑based phonetic and phonological research by conducting a bibliometric analysis of all Scopus‑indexed publications from 2010 to 2020. Although corpus linguistic methods have long supported qualitative investigations of sound distribution and realization, recent advances—such as statistical modelling and probabilistic grammars—underscore their potential for robust, data‑driven phonological theory. However, as Durand et al. (2013) observe, phonetics and phonology remain underrepresented in corpus studies, in part due to limited access to spoken corpora and challenges in data collection and transcription. By applying citation‑based metrics within a scoping review framework (Munn et al. 2018), this analysis identifies the predominant corpus types, the languages most frequently studied, and the principal disciplinary clusters, while mapping emerging research trends and highlighting persistent gaps in phonetic and phonological applications.</p>
+    <p>This project employs a scoping review framework (Munn et al. 2018) combined with quantitative bibliometric metrics to analyze all Scopus‑indexed publications from 2010 to 2020. It aims to identify the corpus types most frequently used, determine which languages receive the greatest research focus, idenify the main subfields of linguistics that utilize corpus methods, map temporal trends and emerging knowledge gaps, and highlight the notable underrepresentation of phonetic and phonological studies in corpus‑based research.</p>
         <h4>Methodological Framework</h4>
         <ul>
             <li>Data collection from the Scopus database using a multifaceted search query</li>
@@ -18,7 +18,6 @@ related_publications: false
             <li>Annotation of corpus types (written, spoken, both, sign language) and languages covered</li>
             <li>Mapping of research streams via quantitative bibliometric indicators</li>
         </ul>
-
         <h4>Key Findings</h4>
         <div class="row">
             <div class="col-sm-6">
