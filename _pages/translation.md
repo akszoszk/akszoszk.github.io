@@ -4,7 +4,7 @@ permalink: /translation/
 title: interpreter
 description: Consecutive interpreting and translation
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 <p>
   Alongside my academic and professional work, I offer freelance translation and interpreting services in Polish, English, Ukrainian, and Russian. Since 2017, I have supported clear and effective multilingual communication in various contexts, including official visits, cultural events, and business workshops. I provide both consecutive interpreting and written translations, with attention to linguistic nuance and cultural context.
@@ -27,8 +27,6 @@ Since 2017, I've partnered with **Uniejów Municipality**, providing regular con
 </div>
 
 I also support key cultural events, such as **Uniejów's Icelandic Day**, enabling dialogue between Polish hosts and international guests like Iceland's Ambassador and the Mayors of Uniejów and Sonkajärvi.
-
-[See the Icelandic Day event details](https://uniejow.pl/dzien-islandzki-w-uniejowie/){:target="_blank" rel="noopener noreferrer"}.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
@@ -56,9 +54,4 @@ During annual economic missions, I have interpreted for delegations from countri
 
 <div class="caption">
     Supporting international dialogue in Poznań.
-</div>
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/urzad.JPG.JPG" title="Interpreting in Poznań" class="img-fluid rounded z-depth-1" %}
-  </div>
 </div>
