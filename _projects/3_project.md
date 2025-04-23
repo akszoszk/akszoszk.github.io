@@ -21,10 +21,11 @@ related_publications: false
       <li><strong>Caucasian Languages:</strong> Georgian, with its remarkable consonant inventory and complex cluster structures, provides valuable data for testing the calculator's capabilities with sequences that can include up to six consonants.</li>
       <li><strong>Turkic Languages:</strong> Turkish brings a different phonological system to the calculator, featuring vowel harmony and relatively simpler consonant clusters, creating an important contrast to the Slavic and Caucasian language data.</li>
     </ul>
-    
     <h4>Development Setup</h4>
-    <p>I will soon integrate the latest codebase into PyCharm for enhanced development, debugging, and version control workflows.</p>
-    
+    <ul>
+  <li><strong>Modernized Bootstrap:</strong> Upgraded from Bootstrap 2 (2012) to Bootstrap 5 via CDN for a fully responsive, mobile-friendly layout.</li>
+  <li><strong>Flask Static Integration:</strong> Converted all CSS, JS, and image URLs, ensuring assets load correctly in the Flask environment.</li>
+<li><strong>Keyboard &amp; Tooltip Update:</strong> Cleaned up the keyboard script, fixed event handling, and set up Bootstrap 5 tooltips correctly.</li>    </ul>
     <h4>Upcoming Improvements</h4>
     <div class="row">
       <div class="col-sm-6">
