@@ -1,16 +1,11 @@
 ---
 layout: page
 permalink: /translation/
-title: Freelance Interpreter
+title: interpreter
 description: Consecutive interpreting and translation
 nav: true
 nav_order: 6
 ---
-
-<div class="caption">
-    Interpreting experience in action.
-</div>
-
 <p>
   Alongside my academic and professional work, I offer freelance translation and interpreting services in Polish, English, Ukrainian, and Russian. Since 2017, I have supported clear and effective multilingual communication in various contexts, including official visits, cultural events, and business workshops. I provide both consecutive interpreting and written translations, with attention to linguistic nuance and cultural context.
 </p>
@@ -50,15 +45,20 @@ During annual economic missions, I have interpreted for delegations from countri
 ## Collaboration with Poznań City Office
 
 <p>
-  I collaborate with the <strong>Poznań City Office</strong>, offering interpretation services during international visits, bilateral meetings, and thematic workshops. This includes working with official delegations from <strong>Kyiv</strong>, where clear, culturally-sensitive communication is essential. I also provide linguistic support for Ukrainian entrepreneurs participating in business development events, ensuring effective dialogue and mutual understanding.
+  I also collaborated with the <strong>Poznań City Office</strong>, offering interpretation services during international visits, bilateral meetings, and thematic workshops. This includes working with official delegations from <strong>Kyiv</strong>, where clear, culturally-sensitive communication is essential. I also provide linguistic support for Ukrainian entrepreneurs participating in business development events, ensuring effective dialogue and mutual understanding.
 </p>
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/urzad_ukr.jpg" title="Interpreting in Poznań" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/urzad_ukr.JPG" title="Interpreting in Poznań" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="caption">
     Supporting international dialogue in Poznań.
+</div>
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/urzad.JPG.JPG" title="Interpreting in Poznań" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
