@@ -11,13 +11,15 @@ related_publications: false
 <div class="row">
   <div class="col-sm-12 mt-4 mt-md-0">
     
-    <p>The <strong>Net Auditory Distance Calculator</strong>—originally developed at <a href="https://anglistyka.amu.edu.pl/">Anglistyka AMU</a>—is now live on PythonAnywhere. Try it at <a href="https://akszoszk.pythonanywhere.com/">https://akszoszk.pythonanywhere.com/</a>. Please note that the web interface is under active development, so you may encounter ongoing updates.</p>
-<p> The NAD Calculator calculates consonant‑cluster preferability for word‑initial, medial, and final positions by quantifying distances in manner of articulation (MOA), place of articulation (POA), and sonority (S/O). Originally developed at the Faculty of English, Adam Mickiewicz University, I am currently working on its further development—refining the feature‑weighting scheme, expanding language coverage, and enhancing the web interface.</p>    
-    <h4>Expanded Language Coverage</h4>
+    <p>The <strong>Net Auditory Distance Calculator</strong>—originally developed at <a href="https://anglistyka.amu.edu.pl/">Anglistyka AMU</a>—is now accessible on PythonAnywhere at <a href="https://akszoszk.pythonanywhere.com/">https://akszoszk.pythonanywhere.com/</a>. As an actively evolving project, the web interface undergoes frequent updates and improvements.</p>
+    
+    <p>The NAD Calculator quantifies consonant-cluster preferability across word positions (initial, medial, and final) by measuring distances in manner of articulation (MOA), place of articulation (POA), and sonority (S/O). What began as a research project at the Faculty of English, Adam Mickiewicz University, has transformed into an ongoing developmental journey with continuous refinements to the feature-weighting scheme, expanding language coverage, and enhancing the web interface.</p>
+    
+    <h4>Language Support Evolution</h4>
     <ul>
-      <li><strong>Russian &amp; Ukrainian</strong> — added in 2017</li>
-      <li><strong>Georgian &amp; Croatian</strong> — added in 2019</li>
-      <li><strong>Turkish &amp; Belarusian</strong> — added most recently in 2024</li>
+      <li><strong>Slavic Languages:</strong> Russian, Ukrainian, Croatian, and Belarusian each offer unique consonant cluster patterns. Russian presents complex onset clusters, while Croatian features distinctive palatal consonants.</li>
+      <li><strong>Caucasian Languages:</strong> Georgian, with its remarkable consonant inventory and complex cluster structures, provides valuable data for testing the calculator's capabilities with sequences that can include up to six consonants.</li>
+      <li><strong>Turkic Languages:</strong> Turkish brings a different phonological system to the calculator, featuring vowel harmony and relatively simpler consonant clusters, creating an important contrast to the Slavic and Caucasian language data.</li>
     </ul>
     
     <h4>Development Setup</h4>
@@ -27,9 +29,9 @@ related_publications: false
     <div class="row">
       <div class="col-sm-6">
         <ul>
-		<li>Integrate a list of key publications and references directly within the tool for quick access to foundational and recent research.</li>
-		<li>Develop a more intuitive, user‑friendly interface with clear navigation, responsive design, and interactive help prompts.</li>
-        <li>Add support for additional language inventories</li>
+          <li>Integrate a list of key publications and references directly within the tool for quick access to foundational and recent research.</li>
+          <li>Develop a more intuitive, user-friendly interface with clear navigation, responsive design, and interactive help prompts.</li>
+          <li>Add support for additional language inventories</li>
         </ul>
       </div>
       <div class="col-sm-6">
