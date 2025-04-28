@@ -10,11 +10,18 @@ related_publications: false
 
 <div class="row">
   <div class="col-sm-12 mt-4 mt-md-0">
-    
-    <p>The <strong>Net Auditory Distance Calculator</strong>—originally developed at <a href="https://anglistyka.amu.edu.pl/">Anglistyka AMU</a>—is now accessible on PythonAnywhere at <a href="https://akszoszk.pythonanywhere.com/">https://akszoszk.pythonanywhere.com/</a>. As an actively evolving project, the web interface undergoes frequent updates and improvements.</p>
-    
-    <p>The NAD Calculator quantifies consonant-cluster preferability across word positions (initial, medial, and final) by measuring distances in manner of articulation (MOA), place of articulation (POA), and sonority (S/O). What began as a research project at the Faculty of English, Adam Mickiewicz University, has transformed into an ongoing developmental journey with continuous refinements to the feature-weighting scheme, expanding language coverage, and enhancing the web interface.</p>
-    
+<p>
+  The <strong>Net Auditory Distance Calculator</strong>—originally developed at
+  <a href="https://anglistyka.amu.edu.pl/">Anglistyka AMU</a>—is now accessible on PythonAnywhere at
+  <a href="https://akszoszk.pythonanywhere.com/">https://akszoszk.pythonanywhere.com/</a>.
+  As an actively evolving project, the web interface undergoes frequent updates and improvements.
+</p>
+
+<p>
+  I am also developing a dedicated website at
+  <a href="http://alokon1-nad.home.amu.edu.pl/" target="_blank">http://alokon1-nad.home.amu.edu.pl/</a>
+  to describe our research and the use of the calculator in greater detail.
+</p>
     <h4>Language Support Evolution</h4>
     <ul>
       <li><strong>Slavic Languages:</strong> Russian, Ukrainian, Croatian, and Belarusian each offer unique consonant cluster patterns. Russian presents complex onset clusters, while Croatian features distinctive palatal consonants.</li>
