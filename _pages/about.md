@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 🔬 My research relies on corpus linguistics and natural language processing (Python) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
 
-🎧 I continuously develop [Net Auditory Distance Calculator](https://wa.amu.edu.pl/nadcalc/) by incorporating additional languages. Recently, data for Belarusian and Turkish has been added to the database, enabling detailed phonotactic analysis and cross-linguistic comparisons.
+🎧 I continuously develop [Net Auditory Distance Calculator](https://akszoszk.pythonanywhere.com/) by incorporating additional languages. Recently, data for Belarusian and Turkish has been added to the database, enabling detailed phonotactic analysis and cross-linguistic comparisons.
 
 🌍 Beyond academia, I translate and interpret between Ukrainian, English, Polish, and Russian, and I enjoy spending time mountaineering.
