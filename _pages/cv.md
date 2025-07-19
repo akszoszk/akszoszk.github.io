@@ -7,5 +7,5 @@ nav_order: 6
 cv_pdf: AK.Szoszkiewicz_CV.pdf
 description: Last update - January 2024.
 toc:
-  sidebar: left
+sidebar: left
 ---

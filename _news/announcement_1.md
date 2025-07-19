@@ -1,8 +1,11 @@
----
-layout: post
-date: 2025-03-26 15:59:00-0400
+layout: post 
+date: 2025-09-23 09:30:00-0400
 inline: true
-related_posts: true
+related_posts: false
 ---
 
-📢 Our paper <em>“Phonotactics and morphonotactics of word-initial clusters in Belarusian: A corpus-based study”</em> (with Katarzyna Dziubalska-Kołaczyk, Dziyana Sabaleuskaya, Paulina Żydorowicz, and Alona Kononenko-Szoszkiewicz) has been accepted for the <a href="https://societaslinguistica.eu/sle2025/">58th Annual Meeting of the Societas Linguistica Europaea</a> 🎉
+📝 Just presented our talk  <em>“When 'No' Goes Astray: A Blind Alley Development in the Early Acquisition of Polish Negative Sentences”</em> (with W. U. Dressler) to the <a href="https://wa.amu.edu.pl/plm/2025/">53rd Poznań Linguistic Meeting (PLM2025)</a> 🤞  
+
+<a href="assets/img/PLM2025.jpeg" target="_blank">
+  <img src="assets/img/PLM2025.jpeg" alt="PLM2025" style="max-width:100%; height:auto;"/>
+</a>
