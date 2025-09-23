@@ -6,6 +6,7 @@ description: Consecutive interpreting and translation
 nav: true
 nav_order: 5
 ---
+
 <p>
   Alongside my academic and professional work, I offer freelance translation and interpreting services in Polish, English, Ukrainian, and Russian. Since 2017, I have supported clear and effective multilingual communication in various contexts, including official visits, cultural events, and business workshops. I provide both consecutive interpreting and written translations, with attention to linguistic nuance and cultural context.
 </p>
@@ -14,7 +15,7 @@ nav_order: 5
 
 Since 2017, I've partnered with **Uniejów Municipality**, providing regular consecutive interpretation for their annual European economic missions focused on cross-border development.
 
-[Learn about a past mission here](https://uniejow.pl/misja-gospodarcza-i-wizyta-studyjna-w-uniejowie/){:target="_blank" rel="noopener noreferrer"}.
+[Learn about a past mission here](https://uniejow.pl/misja-gospodarcza-i-wizyta-studyjna-w-uniejowie/){:target="\_blank" rel="noopener noreferrer"}.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
