@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-## 📢 Our paper <em>“Phonotactics and morphonotactics of word-initial clusters in Belarusian: A corpus-based study”</em> (with Katarzyna Dziubalska-Kołaczyk, Dziyana Sabaleuskaya, Paulina Żydorowicz, and Alona Kononenko-Szoszkiewicz) has been accepted for the <a href="https://societaslinguistica.eu/sle2025/">58th Annual Meeting of the Societas Linguistica Europaea</a> 🎉
+📢 Our joint research project “Phonotactics and morphonotactics of word-initial clusters in Belarusian: A corpus-based study” (with Katarzyna Dziubalska-Kołaczyk, Dziyana Sabaleuskaya, Paulina Żydorowicz, and Alona Kononenko-Szoszkiewicz) has been presented at the 58th Annual Meeting of the Societas Linguistica Europaea 🎉
