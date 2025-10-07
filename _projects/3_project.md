@@ -1,8 +1,8 @@
 ---
 layout: page
-title: N8N Zendesk AI Ticket Analysis Workflow
-description: AI-driven workflow for automated ticket classification and cross-platform routing using n8n and Claude AI
-img: assets/images/coverproject4.jpg
+title: Net Auditory Distance Calculator upgrade
+description: Ongoing enhancements and expanded language support for the NAD Calculator
+img: assets/img/NAD.jpg
 importance: 2
 category: work
 related_publications: false
@@ -11,61 +11,48 @@ related_publications: false
 <div class="row">
   <div class="col-sm-12 mt-4 mt-md-0">
 <p>
-  The <strong>N8N Zendesk AI Ticket Analysis Workflow</strong> is an intelligent automation system that enhances the efficiency of customer support operations.
-  Built with <strong>n8n</strong> and <strong>Claude AI</strong>, it processes incoming Zendesk tickets, interprets their content, and performs automated actions based on urgency and sentiment.
+  The <strong>Net Auditory Distance Calculator</strong>—originally developed at
+  <a href="https://anglistyka.amu.edu.pl/">Anglistyka AMU</a>—is now accessible on PythonAnywhere at
+  <a href="https://akszoszk.pythonanywhere.com/">https://akszoszk.pythonanywhere.com/</a>.
+  As an actively evolving project, the web interface undergoes frequent updates and improvements.
 </p>
 
 <p>
-  The workflow integrates <strong>Zendesk</strong>, <strong>Google Sheets</strong>, <strong>Jira</strong>, and <strong>Slack</strong> into a connected pipeline that reduces manual triage time and ensures timely responses to critical issues.
-  Each new ticket is captured through a webhook, analyzed for tone and priority, and routed accordingly.
-  Urgent tickets automatically trigger Jira issue creation and Slack notifications, while standard tickets are logged in Google Sheets and updated in Zendesk.
+  I am also developing a dedicated website at
+  <a href="http://alokon1-nad.home.amu.edu.pl/" target="_blank">http://alokon1-nad.home.amu.edu.pl/</a>
+  to describe our research and the use of the calculator in greater detail.
 </p>
-
-<p>
-  This project demonstrates practical implementation of AI-based decision logic, secure API integration, and workflow automation design. 
-  It provides a scalable, data-driven foundation for intelligent support systems and cross-platform orchestration.
-</p>
-
-    <h4>Workflow Overview</h4>
-    <p>
-      The core workflow follows a streamlined process:
-    </p>
-    <pre>
-Webhook → Normalize Data → AI Analysis → Parse Results → Decision Logic
-                                     ↓
-          Google Sheets Logging ← Emergency Check → Jira Issue + Slack Alert
-                                         ↓
-                                    Standard Update
-    </pre>
-
-    <div class="text-center mb-4">
-      <img src="/assets/images/n8n_workflow.jpg" alt="N8N Zendesk Workflow Diagram" class="img-fluid rounded">
+    <h4>Language Support Evolution</h4>
+    <ul>
+      <li><strong>Slavic Languages:</strong> Russian, Ukrainian, Croatian, and Belarusian each offer unique consonant cluster patterns. Russian presents complex onset clusters, while Croatian features distinctive palatal consonants.</li>
+      <li><strong>Caucasian Languages:</strong> Georgian, with its remarkable consonant inventory and complex cluster structures, provides valuable data for testing the calculator's capabilities with sequences that can include up to six consonants.</li>
+      <li><strong>Turkic Languages:</strong> Turkish brings a different phonological system to the calculator, featuring vowel harmony and relatively simpler consonant clusters, creating an important contrast to the Slavic and Caucasian language data.</li>
+    </ul>
+    <h4>Development Setup</h4>
+    <ul>
+  <li><strong>Modernized Bootstrap:</strong> Upgraded from Bootstrap 2 (2012) to Bootstrap 5 via CDN for a fully responsive, mobile-friendly layout.</li>
+  <li><strong>Flask Static Integration:</strong> Converted all CSS, JS, and image URLs, ensuring assets load correctly in the Flask environment.</li>
+<li><strong>Keyboard &amp; Tooltip Update:</strong> Cleaned up the keyboard script, fixed event handling, and set up Bootstrap 5 tooltips correctly.</li>    </ul>
+    <h4>Upcoming Improvements</h4>
+    <div class="row">
+      <div class="col-sm-6">
+        <ul>
+          <li>Integrate a list of key publications and references directly within the tool for quick access to foundational and recent research.</li>
+          <li>Develop a more intuitive, user-friendly interface with clear navigation, responsive design, and interactive help prompts.</li>
+          <li>Add support for additional language inventories</li>
+        </ul>
+      </div>
+      <div class="col-sm-6">
+        <ul>
+          <li>Refine UI/UX with interactive visualizations</li>
+          <li>Provide downloadable reports (CSV/JSON)</li>
+          <li>Improve performance and scalability</li>
+        </ul>
+      </div>
     </div>
-
-    <h4>Key Features</h4>
-    <ul>
-      <li>Automated classification of Zendesk tickets by sentiment, topic, and urgency</li>
-      <li>Real-time emergency detection and escalation via Jira and Slack</li>
-      <li>Integrated ticket logging in Google Sheets for analysis and tracking</li>
-      <li>Secure credential management and encrypted data handling within n8n</li>
-      <li>Scalable design for high-volume ticket processing with minimal latency</li>
-    </ul>
-
-    <h4>Technical Focus</h4>
-    <ul>
-      <li>AI prompt engineering for structured and consistent output</li>
-      <li>Event-driven automation using webhook triggers</li>
-      <li>Cross-platform API communication (Zendesk, Jira, Slack, Google Sheets)</li>
-      <li>Error monitoring and workflow recovery logic</li>
-    </ul>
-
-    <h4 class="mt-4">Documentation</h4>
-    <p>
-      Full technical documentation is available here: 
-      <a href="/assets/pdf/Alona_n8n_workflow_documentation.pdf" target="_blank">
-        Alona_n8n_workflow_documentation.pdf
-      </a>
-    </p>
+    
+    <h4 class="mt-4">Try It Out</h4>
+    <p>Access the calculator here: <a href="https://akszoszk.pythonanywhere.com/" target="_blank">https://akszoszk.pythonanywhere.com/</a></p>
     
   </div>
 </div>
