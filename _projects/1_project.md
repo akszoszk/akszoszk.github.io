@@ -4,7 +4,7 @@ title: PhD project
 description: A comparative study of consonant clusters in Germanic and Slavic languages
 img: assets/img/project1.jpg
 importance: 2
-category: [academic,research]
+category: work
 related_publications: false
 ---
 
