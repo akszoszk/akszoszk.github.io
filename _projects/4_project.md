@@ -1,9 +1,9 @@
 ---
 layout: page
-title: N8N Zendesk AI Ticket Analysis Workflow
+title: AI Ticket Analysis Workflow
 description: AI-driven workflow for automated ticket classification and cross-platform routing using n8n and Claude AI
-img: assets/images/coverproject4.jpg
-importance: 2
+img: assets/img/coverproject4.jpg
+importance: 1
 category: work
 related_publications: false
 ---
@@ -39,7 +39,7 @@ Webhook → Normalize Data → AI Analysis → Parse Results → Decision Logic
     </pre>
 
     <div class="text-center mb-4">
-      <img src="/assets/images/n8n_workflow.jpg" alt="N8N Zendesk Workflow Diagram" class="img-fluid rounded">
+      <img src="/assets/img/n8n_workflow.jpg" alt="N8N Zendesk Workflow Diagram" class="img-fluid rounded">
     </div>
 
     <h4>Key Features</h4>
