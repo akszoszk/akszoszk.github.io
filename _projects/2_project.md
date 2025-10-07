@@ -4,7 +4,7 @@ title: Bibliometric Analysis (Scopus databasa)
 description: Scopus-indexed publications in corpus linguistics
 img: assets/img/coverproject2.jpg
 importance: 3
-category: work
+category: 
 related_publications: false
 ---
 
