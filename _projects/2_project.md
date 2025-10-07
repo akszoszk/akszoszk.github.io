@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bibliometric Analysis
+title: Bibliometric Analysis (Scopus databasa)
 description: Scopus-indexed publications in corpus linguistics
 img: assets/img/coverproject2.jpg
-importance: 2
-category: work
+importance: 3
+category: academic
 related_publications: false
 ---
 

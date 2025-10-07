@@ -4,7 +4,7 @@ title: AI Ticket Analysis Workflow
 description: AI-driven workflow for automated ticket classification and cross-platform routing using n8n and Claude AI
 img: assets/img/coverproject4.jpg
 importance: 1
-category: work
+category: technical
 related_publications: false
 ---
 

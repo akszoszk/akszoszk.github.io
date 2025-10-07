@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Exploring (mor)phono-tactics
+title: PhD project
 description: A comparative study of consonant clusters in Germanic and Slavic languages
 img: assets/img/project1.jpg
-importance: 1
-category: work
+importance: 2
+category: academic
 related_publications: false
 ---
 
