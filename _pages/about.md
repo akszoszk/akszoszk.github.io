@@ -16,10 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🎓 I'm a linguist focused on phonetics and phonology and an AI-enthusiast. By applying data-driven and computational methods I study rules and patterns governing permissible combinations of sounds in a particular language.
+🎓 I am a linguist with a strong technical background, combining linguistic expertise with data-driven and computational methods. My work bridges language and technology to uncover the rules and patterns that shape sound systems across languages.
 
-🔬 My research relies on corpus linguistics and natural language processing (Python) to study phonological systems of different languages and early child language acquisition. I also conduct bibliometric research using Scopus to analyze scholarly trends and evaluate academic impact.
+🔬 In my research I employ corpus-based and NLP methods in Python to analyze phonological data and study early language acquisition. Additionally, I use Scopus-based bibliometric techniques to detect research trends and quantify academic impact.
 
-🎧 I continuously develop [Net Auditory Distance Calculator](https://akszoszk.pythonanywhere.com/) by incorporating additional languages. Recently, data for Belarusian and Turkish has been added to the database, enabling detailed phonotactic analysis and cross-linguistic comparisons.
+🤖 I am passionate about integrating artificial intelligence and automation into research workflows. I build custom AI agents and n8n-based automation pipelines that streamline data collection, processing, and analysis. This technical approach allows me to enhance research reproducibility, reduce manual effort, and explore the creative potential of AI-assisted linguistic research. Check my latest project :)
 
-🌍 Beyond academia, I translate and interpret between Ukrainian, English, Polish, and Russian, and I enjoy spending time mountaineering.
+🌍 Beyond academia, I enjoy theatre and cinema, and spending time hiking in the mountains.
