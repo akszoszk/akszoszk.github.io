@@ -3,16 +3,23 @@
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
     <div class="card hoverable">
       {% if project.img %}
-        {%
-          include figure.liquid
+        {% include figure.liquid
           path=project.img
-          sizes = "250px"
+          sizes="250px"
           alt="project thumbnail"
         %}
       {% endif %}
       <div class="card-body">
         <h2 class="card-title text-lowercase">{{ project.title }}</h2>
         <p class="card-text">{{ project.description }}</p>
+
+        <!-- ✅ Add this small block for category display -->
+        {% if project.categories %}
+          <p class="project-category text-muted mb-1" style="font-size: 0.9rem;">
+            {{ project.categories | join: ", " }}
+          </p>
+        {% endif %}
+
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">
